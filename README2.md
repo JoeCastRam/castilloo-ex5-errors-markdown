@@ -1,8 +1,8 @@
-#Festival de Musica Ritmes del Món
+# Festival de Musica Ritmes del Món
 
 Benvinguts al festival internacional de **musica* i cultura
 
-##Artistes Confirmats
+## Artistes Confirmats
 * Shakira
 *Coldplay
 * Manu Chao
