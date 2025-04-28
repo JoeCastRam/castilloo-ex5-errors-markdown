@@ -22,7 +22,7 @@ Benvinguts al festival internacional de **musica* i cultura
 |Tipus d'entrada|Preu
 |---------------|---
 |General        |50€
-|VIP   |120€
+|VIP    |120€
 
 ## Normativa
 - No es permet l'entrada d'aliments de fora
